@@ -24,7 +24,7 @@ created: "{{date:YYYY.MM.DD}}"
 - [ ] 
 
 # 想法和思考过程（Chronological Log）
-
+`❓疑问、💡顿悟、➡️下一步、🚧卡点、🔄调整/修改、❌弃用、⚠️注意、‼️惊叹、🔗链接`
 ### {{date:YYYY.MM.DD}}
 - 
 

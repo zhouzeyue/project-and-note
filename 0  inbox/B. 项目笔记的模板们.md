@@ -1,33 +1,30 @@
 ---
 type:
   - branch-note
-status: in-progress
+status: active
 parent_project: ""
-created: "2025.06.30"
+created: 2025.6.30
 ---
-# 🎯 Branch Objective / Core Question
-> 
 
-# ✅ Action Plan / Open Issues
-*由下方的Log动态生成，不断演变的问题树和行动清单。*
-*使用 `[ ]` 待办, `[x]` 完成, `[-]` 作废。*
+# 🎯 分支研究问题/目标（Objective / Question）
 
-- [ ] 
 
-# 成果与结论 (Findings & Synthesis)
-> 对本分支探索的阶段性总结。
-
-# 🔗 相关资源 (Related Resources)
-[[Project note - Research]]
-[[Branch note]]
+# ✨ 思维结晶（Crystal of Thought）
 
 [[Project note]]
-[[Branch note - Product]]
-
+[[Branch note]]
 [[Source Note]]
 [[Theme note]]
 
 ---
+# ✅ 行动计划（Action Plan）
+*`[ ]` 待办, `[x]` 完成, `[-]` 作废。*
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 # Chronological Log
 *记录所有阅读笔记、问题、灵感和认知调整。*
@@ -54,6 +51,11 @@ created: "2025.06.30"
 - `DOI`: 数字对象唯一标识符（对于学术论文）。    
 - `my_summary`: 一句话总结，这是**你自己的话**。这个字段能帮你快速回忆起这篇资料的核心价值。
 
+- 旧版本模板可以归档了
+[[Project note - Research]]
+[[Branch note - Research]]
+[[Project note - Product]]
+[[Branch note - Product]]
 
 ### 2025.7.1
 - 这个行动计划要不放到想法和思考过程的前面？上下来回翻有点烦。
@@ -78,3 +80,7 @@ created: "2025.06.30"
 - 还有把这标题名称统一一下，现在每个笔记的这个小标题都叫不同的名，但意思是一样的。（大概吧？如果意思不一样就不要改成一样了
 - 每个标题前面加一个emoji，好可爱。
 - 我又加了一个领域笔记，需要创建模板，但这个会在字母a，要不改叫主题笔记theme？毕竟一辈子创建不了几条。
+
+
+
+
